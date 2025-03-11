@@ -60,4 +60,4 @@ public class MainActivity extends AppCompatActivity {
 
         textResult.setText("Result: " + result);
     }
-}//监管合规合法
+}
